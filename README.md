@@ -33,7 +33,7 @@
 </p>
 
 # <img height="40px" align="center" src="https://www.svgrepo.com/show/440547/alien-ship.svg"> Let's connect!
-<a href="https://www.linkedin.com/feed/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="pr" /> </a>
+<a href="https://www.linkedin.com/in/huicongch/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="pr" /> </a>
 <a href="https://github.com/congegege/congegege"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="pr" /> </a>
 <a href="https://www.youtube.com/@CodingCoding-jj9eh/featured"> <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="pr" /> </a>
 
