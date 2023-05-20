@@ -1,4 +1,6 @@
-### Hi there 👋
+<p align="center">
+  <img src="https://github.com/congegege/congegege/tree/main/assets/github.gif">
+</p>
 
 <!--
 **congegege/congegege** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
