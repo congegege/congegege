@@ -28,8 +28,8 @@
 # <img height="40px" align="center" src="https://www.svgrepo.com/show/440492/galaxy.svg"> My State
 
 <p align="left">
-  <img  height="160rem"  src="https://github-readme-stats.vercel.app/api?username=congegege&hide=issues,contribs&count_private=true&show_icons=true&theme=dracula&hide_border=true&hide_title=true&icon_color=ca6e86">
-  <img  height="160rem"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=congegege&layout=donut&hide_border=true&hide_title=true&count_private=true&show_icons=true&theme=dracula">
+  <img  height="150rem"  src="https://github-readme-stats.vercel.app/api?username=congegege&hide=issues,contribs&count_private=true&show_icons=true&theme=dracula&hide_border=true&hide_title=true&icon_color=ca6e86">
+  <img  height="150rem"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=congegege&layout=donut&hide_border=true&hide_title=true&count_private=true&show_icons=true&theme=dracula">
 </p>
 
 # <img height="40px" align="center" src="https://www.svgrepo.com/show/440547/alien-ship.svg"> Let's connect!
