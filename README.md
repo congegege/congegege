@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/congegege/congegege/tree/main/assets/Github.gif">
+  <img src="https://github.com/congegege/congegege/blob/main/asset/Github.gif">
 </p>
 
 <!--
